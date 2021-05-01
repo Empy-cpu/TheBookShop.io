@@ -1,0 +1,46 @@
+.header{
+
+    padding: 50px;
+    text-align: center;
+    background: #000000;
+    color: white;
+    font-size: 30px;
+
+}
+
+.MainName{
+
+height:20%;
+font-family:Sofia, sans-serif;
+color: #ffffff;
+text-align:center;
+ font-size: 40px;
+}
+
+
+li{
+  list-style-type: none;
+  margin-left: 8rem;
+  margin-right:3rem;
+  margin-top:0;
+  margin-bottom:3.5rem;
+  text-align:left;
+  color: #c2a74e;
+  font-size:25px;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  margin-left:0rem;
+  padding:auto;
+  width: 100vw;
+  background-color: #000000ef;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  color:#c2a74e;
+}
+
